@@ -43,7 +43,7 @@ User Query
 ```bash
 cd backend
 cp .env.example .env
-# Add your ANTHROPIC_API_KEY to .env
+# Add your GROQ_API_KEY to .env
 pip install -r requirements.txt
 python app.py
 ```
